@@ -278,7 +278,7 @@ Legacy of the Dragonborn of course requires no introduction, but if you’re som
 
 [Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275) completely changes how your character learns new spells. Instead of "eating" the book and learning the spell, you now have to spend time studying the spell to learn it. The amount of time it takes to learn new spells is completely configurable through this mod's MCM menu, so feel free to tweak it to your liking. It also places a restriction on how high your skill needs to be before you can even attempt to learn more powerful spells. This mod's inclusion is intended to help balance magic as the combination of magic mods included in Living Skyrim make magic significantly stronger.
 
-[Odin](https://www.nexusmods.com/skyrimspecialedition/mods/46000), [Forgotten Magic](https://www.nexusmods.com/skyrimspecialedition/mods/12711), [Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170), and [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440) make up the mods adding new spells to Living Skyrim. Between all of these and the additional options found below, it is possible to have multiple mage playthroughs and never do the same build twice.
+[Odin](https://www.nexusmods.com/skyrimspecialedition/mods/46000), [Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170), and [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440) make up the mods adding new spells to Living Skyrim. Between all of these and the additional options found below, it is possible to have multiple mage playthroughs and never do the same build twice.
 
 [Thunderchild](https://www.nexusmods.com/skyrimspecialedition/mods/1460), [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285), and [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506), and [Mundustar](https://www.nexusmods.com/skyrimspecialedition/mods/41674) are all included to make magic as diverse as possible with a huge breadth of options. Wintersun covers the religious aspect of the game, Summermyst covers enchantments, Thunderchild covers shouts, and Mundustar covers the various standing stones of the world.
 
@@ -338,7 +338,6 @@ Additionally, several of the quest mods included with Living Skyrim have player 
 | Player Homes |  |
 | :--- | :--- |
 | [Blackthorn](https://www.nexusmods.com/skyrimspecialedition/mods/2242) | [Morskom Estate](https://www.nexusmods.com/skyrimspecialedition/mods/33408) |
-| [The Scarlett](https://www.nexusmods.com/skyrimspecialedition/mods/2434) | [The Raven's Breezehome](https://www.nexusmods.com/skyrimspecialedition/mods/20486) |
 | [Riverside Shack](https://www.nexusmods.com/skyrimspecialedition/mods/20982) | [Mornfallow Manor](https://www.nexusmods.com/skyrimspecialedition/mods/411) |
 | [Redspire Manor](https://www.nexusmods.com/skyrimspecialedition/mods/2460) | [JK's Riverfall Cottage](https://www.nexusmods.com/skyrimspecialedition/mods/34542) |
 | [Gleamblossom Hollow](https://www.nexusmods.com/skyrimspecialedition/mods/26277) | [Zulfardin](https://www.nexusmods.com/skyrimspecialedition/mods/33889) |
@@ -509,7 +508,7 @@ Click here to visit the [Performance Optimizations](/livingskyrim/performancegui
   - Pulsefire ezreal
   - Sae the Intern
   - Day7
-  - TheCampingOwl
+  - LunaPapillio
   - Sean Misses Scotch
   - ChunkeeMunkee
   - Dace617
@@ -517,6 +516,10 @@ Click here to visit the [Performance Optimizations](/livingskyrim/performancegui
   - scraunch
   - Shiv
   - GravenImages
+  - Hajo
+  - Eikonoklaste
+  - Tamara
+  - Non-Dark Brotherhood Astrid
 - Contributors & Beta Testers:
   - Patchier
   - DwarfDude
@@ -529,7 +532,6 @@ Click here to visit the [Performance Optimizations](/livingskyrim/performancegui
   - Sentrus
   - Nechrion
   - Xanza (For MCM Automation, thank you!)
-  - tjbassoon
 - Halgari & The Wabbajack Team
    - Thank you for creating Wabbajack, you’re amazing!
    - Halgari’s Patreon
